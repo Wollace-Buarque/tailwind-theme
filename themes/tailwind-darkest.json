@@ -204,6 +204,13 @@
       }
     },
     {
+      "name": "variable.other.constant.property",
+      "scope": "variable.other.constant.property",
+      "settings": {
+        "foreground": "#7dd3fc"
+      }
+    },
+    {
       "name": "java type",
       "scope": [
         "storage.type.annotation.java",
