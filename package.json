@@ -1,0 +1,39 @@
+{
+  "name": "tailwind-theme",
+  "displayName": "Tailwind Theme",
+  "description": "Most identical tailwind theme (Not finished yet)",
+  "publisher": "WollaceBuarque",
+  "icon": "images/icon.png",
+  "version": "0.3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wollace-buarque/tailwind-theme"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tailwind - Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-darkest.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "tema",
+    "dark",
+    "escuro",
+    "tailwind",
+    "tailwindcss",
+    "tailwind theme"
+  ],
+  "dependencies": {
+    "vsce": "^2.10.2"
+  }
+}
