@@ -11,8 +11,11 @@
 "editor.lineHeight": 24,
 "editor.fontSize": 14,
 ```
+
+<p align="center">
 <img src="images/html.png" />
 <img src="images/react.png" />
 <img src="images/css.png" />
+</p>
 
 **Enjoy your theme!**
