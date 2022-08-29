@@ -18,6 +18,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Tailwind - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-dark.json"
+      },
+      {
         "label": "Tailwind - Darkest",
         "uiTheme": "vs-dark",
         "path": "./themes/tailwind-darkest.json"
