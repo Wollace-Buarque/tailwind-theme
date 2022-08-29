@@ -451,8 +451,8 @@
       }
     },
     {
-      "name": "Punctuation",
-      "scope": "punctuation.separator.delimiter",
+      "name": "Punctuation/Operators",
+      "scope": "punctuation.separator.delimiter, punctuation.separator.comma, keyword.operator.arithmetic, keyword.operator.bitwise, keyword.operator.relational, keyword.operator.comparison, keyword.operator.logical",
       "settings": {
         "foreground": "#64748b"
       }
@@ -1381,7 +1381,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#adb6c4"
+        "foreground": "#64748B"
       }
     },
     {
