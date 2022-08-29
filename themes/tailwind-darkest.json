@@ -2113,7 +2113,7 @@
     "peekViewTitleDescription.foreground": "#ccccccb3",
     "peekViewTitleLabel.foreground": "#7dd3fc",
     "icon.foreground": "#cccccc",
-    "checkbox.background": "#0f172a",
+    "checkbox.background": "#2b3447",
     "checkbox.foreground": "#cccccc",
     "checkbox.border": "#00000000",
     "dropdown.background": "#0f172a",

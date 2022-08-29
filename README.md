@@ -1,6 +1,6 @@
-# Tailwind Dark Theme
+# Tailwind Dark/Darkest Theme
 
-## Theme made for React, HTML CSS. (NOT OFFICIAL)
+## Theme made for React, HTML and CSS. (NOT OFFICIAL)
 
 * Install Fira Code font. 
 * Press `F1` and search for <strong>Preferences: Open User Settings (JSON)</strong>
