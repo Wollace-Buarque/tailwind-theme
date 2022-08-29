@@ -20,6 +20,20 @@
       "settings": {
         "foreground": "#efeff1"
       }
+    }, 
+    {
+      "name": "Object from object property",
+      "scope": "variable.other.object.property",
+      "settings": {
+        "foreground": "#7dd3fc"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": "variable.other.object",
+      "settings": {
+        "foreground": "#CBD5E1"
+      }
     },
     {
       "name": "If/while/for",
@@ -799,7 +813,7 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#efeff1"
+        "foreground": "#e2e8f0"
       }
     },
     {
@@ -813,7 +827,7 @@
       "name": "punctuations",
       "scope": "punctuation.accessor, punctuation.definition.block",
       "settings": {
-        "foreground": "#94a3b8"
+        "foreground": "#64748B"
       }
     },
     {
@@ -1308,8 +1322,8 @@
       }
     },
     {
-      "name": "round",
-      "scope": "meta.brace.round",
+      "name": "round/terminator",
+      "scope": "meta.brace.round, punctuation.terminator.statement",
       "settings": {
         "foreground": "#64748B"
       }

@@ -563,6 +563,20 @@
       }
     },
     {
+      "name": "Object from object property",
+      "scope": "variable.other.object.property",
+      "settings": {
+        "foreground": "#7dd3fc"
+      }
+    },
+    {
+      "name": "Variable other object",
+      "scope": "variable.other.object",
+      "settings": {
+        "foreground": "#CBD5E1"
+      }
+    },
+    {
       "name": "Variables",
       "scope": "variable",
       "settings": {
@@ -785,7 +799,7 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#efeff1"
+        "foreground": "#e2e8f0"
       }
     },
     {
@@ -799,7 +813,7 @@
       "name": "punctuations",
       "scope": "punctuation.accessor, punctuation.definition.block",
       "settings": {
-        "foreground": "#94a3b8"
+        "foreground": "#64748B"
       }
     },
     {
@@ -1294,8 +1308,15 @@
       }
     },
     {
-      "name": "round",
-      "scope": "meta.brace.round",
+      "name": "if/try/loop",
+      "scope": "keyword.control.conditional, keyword.control.trycatch, keyword.control.loop",
+      "settings": {
+        "foreground": "#F472B6"
+      }
+    },
+    {
+      "name": "round/terminator",
+      "scope": "meta.brace.round, punctuation.terminator.statement, punctuation.definition.parameters.begin, punctuation.definition.parameters.end",
       "settings": {
         "foreground": "#64748B"
       }
